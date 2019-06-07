@@ -71,12 +71,12 @@ p {
     margin: 0 auto;
 }
 
-.top-content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+.top-content .links {
+    display: in-line flex; 
+    flex-wrap: wrap; 
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+    
 }
 
 .top-content .text-container {
@@ -143,4 +143,44 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+.box1{
+    background: teal;
+}
+
+.box2{
+    background: gold; 
+}
+
+.box3 {
+
+background: cadetblue; 
+}
+
+.box4 {
+    background: coral; 
+}
+
+.box5{
+    background: crimson; 
+}
+
+.box6{
+    background: forestgreen; 
+}
+
+.box7{
+    background: darkorchid; 
+}
+
+.box8{
+    background: hotpink; 
+}
+
+.box9{
+    background: indigo; 
+}
+
+.box10{
+    background: dodgerblue; 
 }

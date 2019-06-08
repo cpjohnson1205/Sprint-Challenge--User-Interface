@@ -1,0 +1,15 @@
+ If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML is all about making our web page layout make sense before the styling action happens. It’s used for accessibility purposes, css, and SEO (search engine optimization). Make your page, title, headings, footers, contact info make sense so that people can easily view and search your website! 
+
+2. Name two big differences between display: block; and display: inline;.
+Display- inline ignores height and width properties while block has to have a specified height and width
+Block takes up as much space as it can while inline only takes up space of the content. 
+
+3. What are the 4 areas of the box model?
+Container, margin, padding, content
+
+4. While using flexbox, what axis does the following property work on: align-items: center? 
+Cross axis
+
+5. Explain why git is valuable to a team of developers.
+Git allows developers to work on a single project and update to their repo with commentation for easier fluidity. This is best versus having to continuously send the file. 

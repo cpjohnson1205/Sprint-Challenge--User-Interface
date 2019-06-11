@@ -78,6 +78,7 @@ p {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
     
+    
 }
 .box1{
     background: teal;
@@ -118,5 +119,13 @@ background: cadetblue;
 
 .box10{
     background: dodgerblue; 
+}
+.boxes{
+    display:flex; 
+    flex-wrap: wrap; 
+    flex-direction: row; 
+    align-items: flex-start; 
+ 
+
 }
 
